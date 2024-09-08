@@ -1,10 +1,3 @@
-# File: This program is ** Subtract a square Game **
-# Purpose: This Game Starts with number of coins
-# Players only removes a non-zero perfect square number of coins
-# The player who removes the last coin wins
-# Author: Malak Mohamed Saad Fahmy Al-Aabiad
-# ID: ( 20230417 )
-
 import random   # Import a library to generate a random number of coins
 import math     # Import a library to use square root built-in function
 # Display welcome message and the game instructions to the user
